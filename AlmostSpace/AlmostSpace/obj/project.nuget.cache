@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "BrcijoYDs2qtMQgSgb7C3YhRSl/8b5FtxJL1xm+kzkzG090FfxVj2Wr40ifmQmCDkcnQ5747rnRFKsYWofL4sQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kchec\\Documents\\School\\2023-24\\AlmostSpace\\AlmostSpace\\AlmostSpace.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kchec\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\kchec\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\kchec\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\kchec\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\kchec\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\kchec\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
